@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Poetsen+One&display=swap');
+
+    /* Estilos para titulo */
+
+h1{
+    font-size: 500% ;
+    text-align: center;
+    color: red;
+    font-family: "Poetsen One", sans-serif;
+    font-weight: bold;
+}
+
+/* Estilos de letra de la página web */
+
+body{
+    background-color: #ca791c;
+}
+
+/* Estilo del menu de navegación */
+
+nav{
+    color: aliceblue;
+}
+
+/* Estilos de letra de la página web */
+
+h2{
+    font-size: 200%;
+    color: red;
+    font-size: 300%;
+}
+
+/* Estilos de letra del parrafo */
+
+p{
+    font-size: 200%;
+    color:rgb(107, 48, 0);
+    font-family: "Lora", serif;
+}
+
+/* Estilos de letra del parrafo */
+
+section{
+   color:rgb(107, 48, 0)
+}
+
+/* Estilos de letra de la página web */
+
+h3{
+    color: red;
+}
+
+/* Estilos para enlaces */
+
+a:hover {
+  color: #27f364;
+  text-decoration: underline;
+}
+
